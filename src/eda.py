@@ -15,4 +15,11 @@ def get_player_stats(df, player_name):
         'Highest Score': player_df['Runs'].max()
     }
     return stats
-
+def get_format_stats(df, player_name):
+    player_df = df[df['Player'] == player_name]
+    return player_df.groupby('Format').agg({
+        'Runs': 'sum',
+        'Balls': 'sum',
+        '4s': 'sum',
+        '6s': 'sum'
+    }).reset_index()
