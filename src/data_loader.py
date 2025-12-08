@@ -29,5 +29,12 @@ def load_data(filepath='data/mock_cricket_data.csv'):
         df['Date'] = pd.to_datetime(df['Date'])
     return df
 
+def preprocess_data(df):
+    df = df.dropna(subset=['Player', 'Runs', 'Balls'])
+    if 'StrikeRate' not in df.columns and 'Runs' in df.columns and 'Balls' in df.columns:
+        df['StrikeRate'] = (df['Runs'] / df['Balls']) * 100
+        df['StrikeRate'] = df['StrikeRate'].fillna(0)        
+    return df
+
 
 
