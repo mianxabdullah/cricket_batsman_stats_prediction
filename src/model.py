@@ -27,5 +27,11 @@ class ScorePredictor:
         predictions = self.model.predict(X_test)
         mae = mean_absolute_error(y_test, predictions)
         return mae
+    def predict(self, recent_avg, venue_avg):
+        input_data = pd.DataFrame({
+            'RollingAvg_5': [recent_avg],
+            'VenueAvg': [venue_avg]
+        })
+        return self.model.predict(input_data)[0]
         
 
