@@ -21,5 +21,13 @@ def load_kaggle_dataset(data_dir='data'):
     df_processed = df_processed[df_processed['Balls'] > 0]
     df_processed = df_processed.drop_duplicates()
     return df_processed
+def load_data(filepath='data/mock_cricket_data.csv'):
+    if not os.path.exists(filepath):
+        return None
+    df = pd.read_csv(filepath)
+    if 'Date' in df.columns:
+        df['Date'] = pd.to_datetime(df['Date'])
+    return df
+
 
 
