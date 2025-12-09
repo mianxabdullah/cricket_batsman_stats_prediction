@@ -14,3 +14,9 @@ def load_css():
 
 load_css()
 
+st.title("🏏 Cricket Player Performance Analysis")
+st.markdown("### Advanced Analytics & Performance Prediction Tool")
+
+st.sidebar.header("Configuration")
+data_source = st.sidebar.radio("Data Source", ["Mock Data", "Kaggle Dataset", "Upload CSV"])
+
