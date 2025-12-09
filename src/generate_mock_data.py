@@ -33,3 +33,23 @@ def generate_mock_data(num_rows=500):
             runs = int(balls * random.uniform(0.2, 0.8)) if balls > 0 else 0
             fours = int(runs / 15)
             sixes = int(runs / 50)
+    
+        is_out = random.choice([True, True, True, False])        
+        data.append({
+            'Player': player,
+            'Opposition': opposition,
+            'Venue': venue,
+            'Format': match_format,
+            'Date': date,
+            'Runs': runs,
+            'Balls': balls,
+            '4s': fours,
+            '6s': sixes,
+            'Out': is_out,
+            'Innings': random.choice([1, 2])
+        })        
+    df = pd.DataFrame(data)
+    df.to_csv('data/mock_cricket_data.csv', index=False)
+    print("Mock data generated at data/mock_cricket_data.csv")
+if __name__ == "__main__":
+    generate_mock_data()
