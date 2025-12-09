@@ -1,0 +1,16 @@
+.stApp {
+    background-color: #0e1117;
+    color: #fafafa;
+    font-family: 'Inter', sans-serif;
+}
+
+[data-testid="stSidebar"] {
+    background-color: #161b22;
+    border-right: 1px solid #30363d;
+}
+
+h1, h2, h3 {
+    color: #58a6ff;
+    font-weight: 600;
+}
+
