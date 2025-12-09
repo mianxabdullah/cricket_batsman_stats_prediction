@@ -1,0 +1,501 @@
+Player,Opposition,Venue,Format,Date,Runs,Balls,4s,6s,Out,Innings
+Steve Smith,Australia,Old Trafford,ODI,2020-11-22,181,130,15,6,False,2
+David Warner,Australia,Lords,ODI,2015-02-06,62,145,5,2,True,2
+Jos Buttler,England,Dubai International Stadium,T20I,2022-10-06,84,43,8,4,False,2
+Babar Azam,New Zealand,Lords,ODI,2023-02-18,9,12,0,0,True,2
+Joe Root,Australia,Lords,T20I,2015-12-07,73,52,7,3,False,1
+Jos Buttler,Australia,Old Trafford,Test,2016-12-17,17,50,1,0,True,1
+Rohit Sharma,England,Lords,ODI,2018-11-10,101,87,8,3,False,2
+Rohit Sharma,England,Dubai International Stadium,ODI,2019-10-23,26,30,2,0,True,2
+Steve Smith,Pakistan,Eden Gardens,ODI,2015-07-01,67,70,5,2,True,2
+Rohit Sharma,England,Eden Gardens,T20I,2018-06-08,3,2,0,0,False,1
+Kane Williamson,England,Lords,T20I,2017-04-04,81,58,8,4,True,2
+Virat Kohli,Pakistan,Dubai International Stadium,Test,2021-02-16,82,241,5,1,False,2
+Rohit Sharma,Pakistan,Old Trafford,T20I,2016-07-08,76,60,7,3,True,2
+Virat Kohli,Pakistan,Dubai International Stadium,Test,2022-08-31,10,22,0,0,False,2
+Babar Azam,New Zealand,Old Trafford,Test,2017-12-20,149,267,9,2,True,2
+Rohit Sharma,Pakistan,Dubai International Stadium,ODI,2019-07-07,58,66,4,1,True,1
+Joe Root,Pakistan,Old Trafford,T20I,2016-01-10,114,56,11,5,True,2
+Virat Kohli,Australia,Dubai International Stadium,ODI,2020-05-10,25,51,2,0,True,2
+Babar Azam,Australia,MCG,ODI,2018-04-26,123,89,10,4,True,2
+Babar Azam,Australia,Lords,ODI,2017-07-12,44,63,3,1,True,2
+Joe Root,England,Dubai International Stadium,T20I,2016-10-10,63,31,6,3,False,2
+Kane Williamson,England,Lords,T20I,2017-04-12,116,52,11,5,True,1
+Steve Smith,New Zealand,Old Trafford,ODI,2018-11-16,105,92,8,3,True,2
+Kane Williamson,Pakistan,Dubai International Stadium,T20I,2018-06-02,18,25,1,0,True,2
+Virat Kohli,New Zealand,Old Trafford,Test,2017-03-30,100,206,6,2,True,2
+Joe Root,Pakistan,MCG,T20I,2021-09-28,77,32,7,3,False,1
+Virat Kohli,New Zealand,MCG,ODI,2019-11-28,100,141,8,3,False,2
+Joe Root,England,Eden Gardens,T20I,2023-03-03,147,60,14,7,False,1
+Jos Buttler,Pakistan,Dubai International Stadium,Test,2023-01-19,62,85,4,1,False,1
+Joe Root,England,Old Trafford,ODI,2017-03-01,70,67,5,2,False,1
+Virat Kohli,Australia,MCG,T20I,2016-07-27,113,55,11,5,True,1
+Joe Root,Pakistan,Old Trafford,ODI,2021-06-17,77,56,6,2,True,2
+David Warner,Australia,Lords,T20I,2022-05-21,6,3,0,0,True,1
+Babar Azam,Pakistan,Old Trafford,T20I,2019-02-08,67,43,6,3,False,2
+David Warner,New Zealand,MCG,T20I,2016-12-07,138,59,13,6,True,1
+Kane Williamson,New Zealand,Lords,Test,2022-11-11,94,134,6,1,False,2
+Steve Smith,England,Eden Gardens,ODI,2021-09-18,92,127,7,3,True,2
+Virat Kohli,Pakistan,MCG,T20I,2021-04-13,40,27,4,2,True,1
+David Warner,Australia,MCG,T20I,2018-06-09,51,25,5,2,False,1
+Joe Root,Pakistan,Dubai International Stadium,T20I,2019-03-23,16,11,1,0,True,2
+Jos Buttler,England,Dubai International Stadium,ODI,2020-05-06,6,6,0,0,False,1
+Joe Root,England,MCG,T20I,2019-12-31,29,14,2,1,True,2
+Kane Williamson,Australia,Old Trafford,T20I,2017-12-25,30,47,3,1,True,2
+Kane Williamson,New Zealand,Old Trafford,Test,2022-02-16,36,93,2,0,True,2
+Kane Williamson,Australia,Old Trafford,T20I,2021-10-08,42,43,4,2,False,1
+Rohit Sharma,Pakistan,Lords,T20I,2015-02-05,52,34,5,2,True,1
+Kane Williamson,Australia,Eden Gardens,ODI,2022-08-22,34,63,2,1,True,1
+Virat Kohli,Australia,Dubai International Stadium,T20I,2019-12-31,31,31,3,1,False,1
+Jos Buttler,Australia,MCG,ODI,2019-08-31,119,125,9,3,True,2
+Kane Williamson,Australia,MCG,T20I,2020-06-06,21,12,2,1,False,1
+Kane Williamson,Australia,Dubai International Stadium,Test,2018-12-23,30,41,2,0,True,2
+Babar Azam,Pakistan,MCG,ODI,2018-11-02,183,129,15,6,True,2
+Rohit Sharma,England,Old Trafford,Test,2020-04-14,208,299,13,4,True,2
+Steve Smith,New Zealand,Eden Gardens,T20I,2018-02-20,40,17,4,2,True,1
+Jos Buttler,England,Lords,ODI,2016-06-17,18,18,1,0,True,2
+Virat Kohli,Pakistan,Old Trafford,ODI,2018-05-15,168,113,14,5,True,2
+Babar Azam,England,Eden Gardens,T20I,2016-06-08,40,29,4,2,True,2
+David Warner,Australia,MCG,T20I,2015-09-30,55,44,5,2,True,2
+Kane Williamson,Australia,Dubai International Stadium,T20I,2015-06-07,83,46,8,4,False,2
+Jos Buttler,Australia,Dubai International Stadium,T20I,2019-08-07,8,6,0,0,False,1
+Babar Azam,Australia,Lords,T20I,2022-05-11,13,8,1,0,False,2
+Rohit Sharma,Pakistan,Eden Gardens,Test,2016-07-18,197,277,13,3,True,2
+Virat Kohli,New Zealand,Old Trafford,T20I,2016-11-26,56,32,5,2,True,2
+Steve Smith,New Zealand,Dubai International Stadium,Test,2015-06-13,137,200,9,2,False,2
+David Warner,Pakistan,Lords,Test,2015-07-14,6,23,0,0,True,1
+Virat Kohli,Australia,Lords,Test,2023-02-21,118,175,7,2,False,2
+Steve Smith,Australia,Eden Gardens,T20I,2017-05-24,43,32,4,2,True,2
+Rohit Sharma,England,Lords,Test,2020-12-16,48,84,3,0,True,1
+Babar Azam,Pakistan,Eden Gardens,T20I,2021-06-28,17,22,1,0,True,2
+Babar Azam,Pakistan,MCG,Test,2016-03-18,88,133,5,1,True,2
+David Warner,England,Eden Gardens,T20I,2022-10-04,1,1,0,0,True,2
+Jos Buttler,Pakistan,Dubai International Stadium,Test,2020-10-09,7,17,0,0,True,1
+Jos Buttler,New Zealand,Eden Gardens,Test,2019-05-26,51,159,3,1,False,1
+Steve Smith,New Zealand,Dubai International Stadium,ODI,2017-02-10,85,91,7,2,True,1
+David Warner,Pakistan,Lords,T20I,2022-02-16,27,19,2,1,True,1
+Babar Azam,New Zealand,Dubai International Stadium,T20I,2021-03-12,74,39,7,3,True,1
+Babar Azam,New Zealand,Dubai International Stadium,ODI,2022-05-23,21,15,1,0,True,1
+Joe Root,Pakistan,Eden Gardens,ODI,2021-04-26,5,10,0,0,True,2
+Kane Williamson,Pakistan,Dubai International Stadium,T20I,2017-11-26,27,20,2,1,True,1
+Babar Azam,Australia,Old Trafford,ODI,2021-03-21,113,136,9,3,True,2
+Virat Kohli,England,Old Trafford,ODI,2022-10-20,105,71,8,3,True,1
+Steve Smith,Australia,Dubai International Stadium,Test,2017-04-12,200,283,13,4,False,1
+Virat Kohli,England,Old Trafford,ODI,2022-11-11,147,117,12,4,False,1
+Virat Kohli,England,Old Trafford,ODI,2015-07-15,120,85,10,4,True,2
+Steve Smith,Pakistan,Eden Gardens,ODI,2018-05-31,135,94,11,4,False,2
+Steve Smith,Pakistan,Old Trafford,Test,2016-06-26,182,280,12,3,True,2
+Joe Root,Pakistan,MCG,Test,2016-08-26,56,105,3,1,True,2
+David Warner,Pakistan,Old Trafford,ODI,2022-04-23,80,144,6,2,True,1
+Joe Root,Australia,Eden Gardens,T20I,2021-10-01,9,6,0,0,True,2
+Steve Smith,New Zealand,Lords,Test,2016-11-27,120,160,8,2,True,1
+Steve Smith,England,Eden Gardens,Test,2016-11-13,14,31,0,0,True,2
+Joe Root,England,Old Trafford,T20I,2018-04-09,33,23,3,1,True,1
+Rohit Sharma,Australia,Lords,T20I,2021-04-27,31,15,3,1,True,1
+David Warner,New Zealand,Eden Gardens,Test,2017-12-19,45,108,3,0,True,1
+Steve Smith,New Zealand,Lords,Test,2020-02-22,72,172,4,1,True,2
+Rohit Sharma,New Zealand,Old Trafford,ODI,2016-02-28,86,147,7,2,True,1
+Jos Buttler,New Zealand,MCG,T20I,2021-09-18,11,10,1,0,True,2
+Joe Root,Pakistan,MCG,Test,2019-10-22,6,28,0,0,True,2
+Joe Root,Pakistan,MCG,Test,2017-08-20,6,23,0,0,False,1
+Kane Williamson,New Zealand,Old Trafford,T20I,2015-08-29,88,37,8,4,True,1
+Jos Buttler,Pakistan,Old Trafford,Test,2017-04-12,22,40,1,0,False,2
+Babar Azam,New Zealand,Eden Gardens,ODI,2019-06-04,11,15,0,0,True,1
+Jos Buttler,New Zealand,Lords,ODI,2019-08-13,29,42,2,0,True,1
+Steve Smith,New Zealand,Eden Gardens,ODI,2021-02-01,63,54,5,2,True,2
+Rohit Sharma,Australia,Lords,T20I,2020-04-23,31,29,3,1,True,1
+Babar Azam,Pakistan,Lords,T20I,2021-08-12,84,58,8,4,True,1
+David Warner,New Zealand,Lords,Test,2018-08-10,71,99,4,1,True,1
+Rohit Sharma,New Zealand,MCG,T20I,2016-06-24,22,18,2,1,False,1
+Steve Smith,Pakistan,Dubai International Stadium,ODI,2019-12-21,180,122,15,6,True,2
+Rohit Sharma,New Zealand,MCG,ODI,2019-08-27,170,137,14,5,True,1
+Rohit Sharma,Australia,MCG,T20I,2021-01-07,67,51,6,3,True,1
+Steve Smith,Australia,MCG,ODI,2020-01-10,57,56,4,1,True,2
+Kane Williamson,New Zealand,Eden Gardens,Test,2016-12-24,40,57,2,0,True,1
+David Warner,Australia,Dubai International Stadium,Test,2019-02-12,17,26,1,0,True,1
+Virat Kohli,Pakistan,Lords,T20I,2015-12-27,23,37,2,1,False,2
+Rohit Sharma,Australia,Lords,T20I,2015-08-23,83,56,8,4,True,2
+Babar Azam,England,Dubai International Stadium,ODI,2022-03-27,181,134,15,6,True,1
+Rohit Sharma,Australia,MCG,Test,2022-08-19,35,176,2,0,False,1
+Virat Kohli,England,Eden Gardens,Test,2021-09-17,116,226,7,2,True,2
+Jos Buttler,Pakistan,MCG,ODI,2018-01-01,91,74,7,3,True,2
+Virat Kohli,New Zealand,Old Trafford,ODI,2020-01-05,95,89,7,3,True,2
+Jos Buttler,New Zealand,Lords,T20I,2018-05-06,23,13,2,1,True,1
+Babar Azam,Australia,MCG,T20I,2020-11-17,61,56,6,3,True,1
+Steve Smith,Australia,MCG,T20I,2019-08-10,14,13,1,0,False,2
+Virat Kohli,Australia,Old Trafford,ODI,2016-08-02,5,9,0,0,True,2
+Babar Azam,Pakistan,Old Trafford,T20I,2018-02-20,126,54,12,6,True,1
+Virat Kohli,New Zealand,Eden Gardens,Test,2019-05-28,63,106,4,1,True,2
+Babar Azam,Australia,Dubai International Stadium,ODI,2015-04-06,5,4,0,0,True,2
+Rohit Sharma,England,MCG,Test,2016-03-24,59,96,3,1,False,2
+Virat Kohli,Pakistan,Lords,Test,2019-02-15,229,297,15,4,True,1
+Jos Buttler,New Zealand,Eden Gardens,ODI,2015-06-24,72,56,6,2,True,2
+Babar Azam,Australia,MCG,ODI,2015-02-27,18,17,1,0,True,2
+Virat Kohli,Australia,Dubai International Stadium,ODI,2019-09-24,30,22,2,1,True,2
+Jos Buttler,Australia,Old Trafford,T20I,2019-10-05,13,8,1,0,True,2
+Joe Root,Pakistan,Dubai International Stadium,Test,2022-04-14,124,273,8,2,False,1
+Kane Williamson,New Zealand,Dubai International Stadium,T20I,2017-03-02,58,30,5,2,True,1
+Rohit Sharma,England,Dubai International Stadium,T20I,2020-01-22,36,24,3,1,True,2
+David Warner,England,Eden Gardens,Test,2016-11-21,161,256,10,3,True,1
+Rohit Sharma,England,MCG,Test,2022-03-01,210,294,14,4,False,1
+Rohit Sharma,England,Dubai International Stadium,T20I,2017-07-08,9,4,0,0,True,2
+David Warner,England,Old Trafford,Test,2020-04-10,65,151,4,1,True,1
+David Warner,Australia,Old Trafford,ODI,2019-07-14,25,34,2,0,True,2
+Kane Williamson,Australia,Lords,T20I,2016-02-22,45,23,4,2,False,1
+Joe Root,England,MCG,ODI,2021-12-20,77,73,6,2,False,1
+Steve Smith,Pakistan,Dubai International Stadium,T20I,2018-11-03,28,17,2,1,False,1
+Rohit Sharma,Pakistan,Dubai International Stadium,Test,2018-06-27,54,110,3,1,True,1
+Rohit Sharma,Australia,Lords,T20I,2019-01-26,15,22,1,0,False,2
+Virat Kohli,Pakistan,Old Trafford,Test,2019-03-29,91,121,6,1,True,2
+Virat Kohli,New Zealand,Old Trafford,T20I,2022-04-28,4,8,0,0,True,1
+David Warner,England,MCG,T20I,2015-11-01,2,3,0,0,True,2
+Joe Root,Australia,Dubai International Stadium,T20I,2018-05-20,138,56,13,6,True,1
+Joe Root,New Zealand,Dubai International Stadium,ODI,2020-08-25,55,62,4,1,True,1
+Virat Kohli,Pakistan,Lords,T20I,2017-04-25,93,46,9,4,True,1
+Jos Buttler,Australia,MCG,T20I,2023-03-19,69,49,6,3,False,1
+Jos Buttler,England,Dubai International Stadium,T20I,2018-05-21,16,7,1,0,True,1
+David Warner,New Zealand,Lords,Test,2021-04-06,79,250,5,1,True,1
+Steve Smith,England,MCG,ODI,2018-12-02,86,63,7,2,True,1
+Joe Root,New Zealand,Eden Gardens,T20I,2016-01-14,56,47,5,2,True,1
+Babar Azam,New Zealand,MCG,Test,2015-08-10,12,37,0,0,False,2
+Kane Williamson,Australia,Eden Gardens,Test,2021-06-26,38,168,2,0,True,2
+Steve Smith,New Zealand,Dubai International Stadium,ODI,2016-05-06,59,61,4,1,True,2
+Babar Azam,Australia,Dubai International Stadium,Test,2022-01-06,4,12,0,0,True,2
+Jos Buttler,Australia,Dubai International Stadium,T20I,2015-01-23,72,34,7,3,True,2
+Virat Kohli,Pakistan,Lords,ODI,2020-01-19,14,31,1,0,False,2
+Babar Azam,Australia,Lords,T20I,2020-11-19,70,37,7,3,True,1
+Steve Smith,New Zealand,Dubai International Stadium,Test,2016-04-21,52,157,3,1,True,1
+Virat Kohli,Australia,Dubai International Stadium,ODI,2019-03-24,21,32,1,0,False,1
+Jos Buttler,Australia,Old Trafford,ODI,2016-03-08,2,2,0,0,False,1
+Babar Azam,Australia,MCG,T20I,2020-09-17,96,45,9,4,False,2
+Kane Williamson,New Zealand,Lords,Test,2021-07-03,123,216,8,2,False,2
+Steve Smith,Pakistan,Old Trafford,T20I,2019-11-21,5,11,0,0,True,2
+Babar Azam,England,Dubai International Stadium,Test,2020-01-21,81,219,5,1,False,1
+Steve Smith,Australia,MCG,Test,2022-08-12,44,61,2,0,True,1
+Kane Williamson,England,Lords,ODI,2021-01-27,102,131,8,3,True,2
+David Warner,Australia,Old Trafford,Test,2020-06-30,103,229,6,2,True,1
+Steve Smith,New Zealand,MCG,T20I,2020-11-18,7,5,0,0,True,2
+Babar Azam,New Zealand,MCG,ODI,2020-03-19,143,121,11,4,True,1
+Babar Azam,New Zealand,Lords,ODI,2023-03-20,114,132,9,3,True,2
+Babar Azam,New Zealand,Dubai International Stadium,Test,2018-04-13,57,133,3,1,True,2
+Steve Smith,Pakistan,Eden Gardens,ODI,2019-08-06,167,135,13,5,False,2
+Jos Buttler,Australia,Dubai International Stadium,Test,2022-03-24,166,293,11,3,True,2
+David Warner,New Zealand,Eden Gardens,ODI,2017-08-15,56,63,4,1,True,2
+Kane Williamson,England,Lords,ODI,2020-05-07,78,135,6,2,True,2
+Steve Smith,Pakistan,MCG,T20I,2015-05-29,40,22,4,2,False,2
+Virat Kohli,New Zealand,Lords,Test,2018-12-13,63,131,4,1,True,2
+Virat Kohli,Australia,MCG,ODI,2016-02-24,161,109,13,5,False,2
+Babar Azam,England,MCG,Test,2021-12-11,19,60,1,0,False,2
+Rohit Sharma,New Zealand,Lords,ODI,2022-10-05,20,18,1,0,True,1
+David Warner,New Zealand,Dubai International Stadium,T20I,2020-03-12,85,35,8,4,False,2
+Joe Root,New Zealand,MCG,T20I,2017-11-30,26,15,2,1,True,2
+Steve Smith,New Zealand,Eden Gardens,T20I,2022-01-10,72,37,7,3,True,1
+David Warner,England,Lords,Test,2021-02-23,29,38,1,0,True,2
+Babar Azam,Pakistan,Dubai International Stadium,Test,2021-09-10,13,32,0,0,False,2
+Kane Williamson,New Zealand,Eden Gardens,Test,2017-02-14,33,133,2,0,True,1
+David Warner,Australia,Lords,Test,2016-06-22,47,65,3,0,True,2
+Rohit Sharma,Australia,Dubai International Stadium,Test,2021-08-04,27,134,1,0,True,2
+Rohit Sharma,England,MCG,Test,2021-08-11,223,300,14,4,True,1
+Kane Williamson,New Zealand,Old Trafford,ODI,2020-08-07,49,54,4,1,True,2
+Joe Root,New Zealand,MCG,T20I,2017-08-27,69,43,6,3,True,1
+Jos Buttler,New Zealand,Dubai International Stadium,T20I,2016-01-08,94,48,9,4,True,1
+Steve Smith,New Zealand,Old Trafford,ODI,2016-08-29,112,117,9,3,True,2
+Virat Kohli,Pakistan,Dubai International Stadium,T20I,2016-12-05,101,44,10,5,True,2
+Babar Azam,Pakistan,Old Trafford,Test,2017-08-08,65,112,4,1,True,2
+Kane Williamson,England,MCG,Test,2023-02-09,95,204,6,1,True,1
+Rohit Sharma,Pakistan,MCG,T20I,2015-06-02,64,29,6,3,True,2
+Joe Root,Pakistan,Eden Gardens,T20I,2021-04-13,35,15,3,1,True,1
+Joe Root,Pakistan,Eden Gardens,ODI,2020-05-09,42,52,3,1,True,1
+Kane Williamson,Australia,Eden Gardens,ODI,2020-02-16,21,23,1,0,False,1
+Steve Smith,New Zealand,MCG,Test,2020-01-17,69,154,4,1,True,2
+Steve Smith,New Zealand,MCG,Test,2023-03-07,42,142,2,0,True,1
+David Warner,England,Lords,ODI,2017-12-18,28,41,2,0,True,1
+Virat Kohli,New Zealand,Eden Gardens,ODI,2017-10-25,21,16,1,0,True,1
+David Warner,Australia,MCG,Test,2020-03-20,39,93,2,0,True,1
+Rohit Sharma,Australia,MCG,ODI,2019-03-09,111,85,9,3,False,1
+Joe Root,Australia,Old Trafford,Test,2018-07-01,101,269,6,2,True,2
+David Warner,New Zealand,Lords,Test,2020-11-06,23,60,1,0,True,1
+Steve Smith,Pakistan,Old Trafford,ODI,2021-12-14,105,74,8,3,True,1
+Virat Kohli,Pakistan,Dubai International Stadium,ODI,2020-04-01,88,120,7,2,True,2
+Steve Smith,New Zealand,Old Trafford,T20I,2019-07-04,2,4,0,0,False,2
+Steve Smith,Australia,Lords,ODI,2021-12-17,108,125,9,3,True,1
+Jos Buttler,Pakistan,Eden Gardens,ODI,2022-01-08,29,66,2,0,False,2
+Joe Root,England,Old Trafford,Test,2022-03-28,36,66,2,0,True,2
+Joe Root,England,Dubai International Stadium,Test,2022-11-21,39,93,2,0,True,2
+Rohit Sharma,Pakistan,Dubai International Stadium,Test,2015-04-30,59,86,3,1,True,2
+David Warner,Pakistan,Eden Gardens,ODI,2018-08-12,25,23,2,0,True,1
+David Warner,Pakistan,Dubai International Stadium,T20I,2021-01-01,25,49,2,1,True,2
+Joe Root,Pakistan,MCG,Test,2018-09-03,9,21,0,0,True,2
+Jos Buttler,Pakistan,Dubai International Stadium,Test,2019-10-02,33,110,2,0,True,1
+Jos Buttler,Pakistan,Dubai International Stadium,Test,2017-10-29,89,275,5,1,True,2
+Kane Williamson,England,Dubai International Stadium,ODI,2016-06-15,68,65,5,2,True,1
+Kane Williamson,New Zealand,Old Trafford,Test,2019-10-28,21,54,1,0,True,2
+David Warner,England,Old Trafford,ODI,2015-12-14,6,10,0,0,False,2
+Steve Smith,Pakistan,Old Trafford,T20I,2016-11-29,59,35,5,2,True,2
+Jos Buttler,New Zealand,Dubai International Stadium,ODI,2020-08-02,70,128,5,2,True,1
+Jos Buttler,Pakistan,Old Trafford,T20I,2019-08-25,1,1,0,0,False,2
+Babar Azam,New Zealand,Dubai International Stadium,ODI,2016-10-23,107,105,8,3,True,1
+Virat Kohli,Australia,MCG,Test,2019-06-15,75,95,5,1,True,1
+Babar Azam,Pakistan,Lords,ODI,2017-09-06,118,107,9,3,True,2
+Joe Root,New Zealand,Dubai International Stadium,Test,2021-10-21,24,121,1,0,True,1
+Steve Smith,New Zealand,MCG,Test,2017-12-09,44,71,2,0,True,1
+Kane Williamson,Australia,MCG,ODI,2015-11-16,65,110,5,2,True,2
+Kane Williamson,New Zealand,MCG,ODI,2015-11-19,54,65,4,1,False,2
+Jos Buttler,Pakistan,Dubai International Stadium,Test,2021-07-18,6,9,0,0,True,2
+Steve Smith,Pakistan,Old Trafford,Test,2020-05-25,93,119,6,1,False,1
+Babar Azam,Australia,MCG,T20I,2016-05-12,74,49,7,3,True,2
+Jos Buttler,New Zealand,Dubai International Stadium,T20I,2022-01-24,76,43,7,3,True,1
+Jos Buttler,New Zealand,Old Trafford,Test,2015-01-10,23,35,1,0,True,2
+Babar Azam,Australia,Old Trafford,Test,2020-05-05,79,238,5,1,False,1
+David Warner,Pakistan,Lords,T20I,2017-11-21,31,32,3,1,True,1
+Rohit Sharma,New Zealand,Old Trafford,Test,2017-12-26,27,129,1,0,False,1
+Kane Williamson,England,MCG,T20I,2018-06-17,28,30,2,1,False,2
+Rohit Sharma,Australia,Lords,T20I,2018-02-12,42,28,4,2,True,2
+Jos Buttler,Australia,Old Trafford,T20I,2021-08-15,103,57,10,5,True,2
+Kane Williamson,New Zealand,Lords,T20I,2018-12-10,8,14,0,0,True,1
+Steve Smith,England,Dubai International Stadium,Test,2018-07-20,132,192,8,2,True,2
+Virat Kohli,Australia,Eden Gardens,ODI,2018-02-26,193,145,16,6,True,2
+David Warner,Australia,Lords,Test,2019-06-22,190,293,12,3,True,2
+Virat Kohli,England,Dubai International Stadium,Test,2015-09-30,164,287,10,3,False,1
+Virat Kohli,England,Lords,Test,2018-10-16,52,130,3,1,False,2
+Kane Williamson,England,Dubai International Stadium,T20I,2018-03-26,4,2,0,0,True,1
+Kane Williamson,Pakistan,Old Trafford,T20I,2016-11-13,24,40,2,1,True,1
+Kane Williamson,Pakistan,MCG,T20I,2018-06-24,56,30,5,2,False,1
+Babar Azam,England,Old Trafford,T20I,2015-06-07,2,3,0,0,True,1
+Joe Root,England,Dubai International Stadium,T20I,2018-04-08,42,42,4,2,True,1
+David Warner,England,Old Trafford,ODI,2022-05-25,158,134,13,5,False,1
+Jos Buttler,Pakistan,Eden Gardens,T20I,2020-02-13,11,19,1,0,False,1
+Babar Azam,New Zealand,Eden Gardens,Test,2017-11-18,155,228,10,3,True,1
+Jos Buttler,New Zealand,Eden Gardens,T20I,2020-10-07,46,24,4,2,False,1
+Jos Buttler,Pakistan,Old Trafford,T20I,2015-08-05,13,15,1,0,True,1
+Kane Williamson,Australia,Eden Gardens,T20I,2020-09-25,14,24,1,0,False,1
+Babar Azam,Australia,Old Trafford,ODI,2019-07-15,7,11,0,0,True,2
+Joe Root,New Zealand,Lords,T20I,2022-01-03,4,4,0,0,True,2
+Steve Smith,New Zealand,Old Trafford,Test,2020-11-07,88,279,5,1,True,1
+Jos Buttler,New Zealand,Dubai International Stadium,Test,2022-02-15,19,26,1,0,True,2
+Rohit Sharma,Australia,Eden Gardens,T20I,2019-10-05,51,55,5,2,True,1
+Kane Williamson,Pakistan,Lords,T20I,2020-12-31,36,46,3,1,True,1
+Rohit Sharma,England,Dubai International Stadium,Test,2021-12-06,110,279,7,2,False,1
+David Warner,Pakistan,Old Trafford,Test,2015-01-19,21,53,1,0,False,2
+David Warner,Pakistan,Old Trafford,T20I,2022-06-02,58,45,5,2,False,1
+Joe Root,New Zealand,Old Trafford,ODI,2015-08-12,166,114,13,5,False,2
+Babar Azam,England,Eden Gardens,Test,2020-02-05,22,28,1,0,True,1
+David Warner,England,MCG,ODI,2015-12-05,36,68,3,1,False,1
+Rohit Sharma,Pakistan,MCG,ODI,2015-08-18,141,106,11,4,True,2
+Babar Azam,Australia,Lords,Test,2017-03-23,228,295,15,4,True,2
+Joe Root,Pakistan,Lords,Test,2020-04-08,80,213,5,1,True,2
+Joe Root,Pakistan,Dubai International Stadium,T20I,2021-12-11,35,35,3,1,True,2
+Kane Williamson,England,Lords,ODI,2018-09-14,50,73,4,1,True,1
+Virat Kohli,New Zealand,Lords,ODI,2020-03-01,80,136,6,2,True,1
+Rohit Sharma,Pakistan,Old Trafford,Test,2015-04-26,55,181,3,1,True,1
+Steve Smith,England,Dubai International Stadium,T20I,2022-04-17,93,48,9,4,True,2
+Steve Smith,Pakistan,Eden Gardens,Test,2020-07-22,50,166,3,1,False,1
+Babar Azam,New Zealand,MCG,ODI,2020-11-23,122,136,10,4,True,2
+Kane Williamson,New Zealand,Dubai International Stadium,ODI,2017-04-10,80,65,6,2,True,1
+Kane Williamson,Australia,Old Trafford,Test,2021-11-04,63,261,4,1,True,1
+Steve Smith,Australia,Dubai International Stadium,ODI,2018-12-13,117,96,9,3,False,1
+David Warner,New Zealand,Lords,Test,2022-12-16,4,15,0,0,True,2
+Rohit Sharma,England,Lords,ODI,2017-02-22,8,20,0,0,True,2
+Joe Root,New Zealand,Old Trafford,T20I,2020-12-08,18,12,1,0,True,1
+Rohit Sharma,New Zealand,MCG,ODI,2021-04-30,56,54,4,1,False,2
+Rohit Sharma,Australia,Eden Gardens,Test,2020-12-07,26,40,1,0,True,2
+Virat Kohli,Pakistan,Old Trafford,Test,2020-02-04,166,221,11,3,False,1
+Jos Buttler,Australia,Dubai International Stadium,T20I,2015-09-20,9,4,0,0,True,1
+Jos Buttler,New Zealand,Old Trafford,ODI,2017-05-21,60,46,5,2,True,1
+Steve Smith,Australia,Eden Gardens,Test,2015-05-30,119,163,7,2,True,1
+Kane Williamson,Pakistan,Eden Gardens,Test,2019-07-13,38,128,2,0,True,1
+Kane Williamson,New Zealand,Eden Gardens,ODI,2016-01-04,190,130,15,6,True,2
+Joe Root,England,MCG,Test,2018-10-15,72,100,4,1,False,1
+Jos Buttler,Pakistan,Dubai International Stadium,Test,2018-01-01,134,267,8,2,False,2
+David Warner,New Zealand,Eden Gardens,T20I,2021-07-07,65,55,6,3,True,1
+David Warner,England,Dubai International Stadium,ODI,2015-01-31,79,72,6,2,True,2
+Virat Kohli,New Zealand,Old Trafford,ODI,2016-11-22,90,100,7,3,True,1
+Steve Smith,Australia,Old Trafford,ODI,2020-10-04,13,20,1,0,True,1
+Babar Azam,Australia,Dubai International Stadium,Test,2021-04-27,62,94,4,1,True,1
+Steve Smith,Pakistan,Dubai International Stadium,T20I,2020-12-05,20,10,2,1,False,2
+Steve Smith,Australia,Eden Gardens,Test,2016-06-28,135,200,9,2,True,2
+Virat Kohli,England,Lords,T20I,2019-12-26,15,12,1,0,True,2
+Joe Root,New Zealand,MCG,ODI,2021-12-14,97,96,8,3,False,1
+David Warner,New Zealand,Old Trafford,Test,2018-08-30,216,280,14,4,True,2
+Jos Buttler,Australia,MCG,ODI,2015-06-25,136,96,11,4,True,1
+Rohit Sharma,England,Old Trafford,ODI,2021-08-23,11,9,0,0,False,2
+David Warner,New Zealand,Old Trafford,Test,2020-02-03,72,195,4,1,True,1
+Virat Kohli,Australia,Lords,T20I,2017-11-15,42,39,4,2,False,2
+Joe Root,England,Eden Gardens,Test,2020-04-16,16,44,1,0,True,1
+Jos Buttler,England,Dubai International Stadium,ODI,2022-05-18,39,32,3,1,True,2
+Steve Smith,New Zealand,Eden Gardens,ODI,2021-03-22,92,110,7,3,True,1
+Babar Azam,Pakistan,Dubai International Stadium,Test,2019-07-05,73,102,4,1,True,1
+Virat Kohli,Australia,Old Trafford,T20I,2020-03-03,120,53,12,6,True,1
+Joe Root,New Zealand,Old Trafford,Test,2017-12-27,47,137,3,0,False,2
+Kane Williamson,Australia,Dubai International Stadium,Test,2020-07-06,43,80,2,0,True,2
+Kane Williamson,New Zealand,MCG,ODI,2015-07-19,85,138,7,2,False,2
+Joe Root,Australia,Old Trafford,Test,2015-10-13,208,283,13,4,True,2
+Babar Azam,New Zealand,Dubai International Stadium,ODI,2019-04-13,141,112,11,4,True,1
+Jos Buttler,England,Lords,Test,2018-06-30,3,12,0,0,True,2
+Joe Root,Australia,MCG,ODI,2018-08-23,44,70,3,1,True,2
+Babar Azam,Pakistan,Dubai International Stadium,ODI,2022-02-14,87,127,7,2,False,2
+Joe Root,England,Dubai International Stadium,T20I,2018-11-29,4,5,0,0,False,1
+Virat Kohli,New Zealand,Lords,ODI,2020-09-08,21,17,1,0,True,1
+Kane Williamson,England,Old Trafford,Test,2018-08-02,6,11,0,0,True,1
+Joe Root,England,Eden Gardens,T20I,2018-05-20,75,39,7,3,True,1
+Virat Kohli,Pakistan,Old Trafford,T20I,2022-09-02,41,26,4,2,True,1
+Rohit Sharma,England,Dubai International Stadium,ODI,2015-05-29,83,95,6,2,True,2
+Steve Smith,Pakistan,Lords,ODI,2016-06-19,55,57,4,1,True,2
+Jos Buttler,Australia,Old Trafford,ODI,2019-02-11,42,90,3,1,True,2
+Babar Azam,Australia,MCG,ODI,2020-01-26,107,129,8,3,True,1
+Rohit Sharma,Pakistan,Dubai International Stadium,Test,2019-12-21,160,217,10,3,True,1
+Virat Kohli,England,Dubai International Stadium,T20I,2018-12-13,39,30,3,1,True,2
+Jos Buttler,New Zealand,Lords,ODI,2017-07-03,46,79,3,1,True,1
+Virat Kohli,Australia,Eden Gardens,ODI,2023-01-01,126,91,10,4,True,1
+Rohit Sharma,Pakistan,Old Trafford,Test,2019-10-07,217,299,14,4,False,2
+Rohit Sharma,New Zealand,Dubai International Stadium,T20I,2022-12-23,59,47,5,2,True,1
+Steve Smith,New Zealand,Old Trafford,ODI,2019-12-12,23,20,1,0,True,1
+Joe Root,New Zealand,Old Trafford,Test,2020-11-07,71,282,4,1,False,1
+Babar Azam,Australia,Lords,Test,2022-04-07,101,255,6,2,True,2
+Babar Azam,England,Eden Gardens,Test,2017-05-12,28,94,1,0,True,2
+Kane Williamson,England,Lords,T20I,2020-04-01,1,2,0,0,True,2
+Rohit Sharma,Pakistan,Lords,ODI,2015-03-20,85,109,7,2,True,1
+Rohit Sharma,Australia,Old Trafford,Test,2021-05-19,197,268,13,3,False,1
+Kane Williamson,England,Old Trafford,Test,2018-04-21,85,191,5,1,True,1
+Rohit Sharma,Pakistan,Old Trafford,Test,2020-10-30,85,184,5,1,True,2
+Virat Kohli,Australia,Lords,ODI,2022-06-09,105,143,8,3,True,1
+Kane Williamson,England,MCG,Test,2019-06-13,72,148,4,1,False,2
+Jos Buttler,Pakistan,Old Trafford,T20I,2018-09-30,21,17,2,1,True,2
+Joe Root,Pakistan,Dubai International Stadium,Test,2015-11-24,157,287,10,3,True,2
+Steve Smith,New Zealand,Dubai International Stadium,ODI,2020-08-31,2,2,0,0,False,1
+Virat Kohli,Australia,Dubai International Stadium,T20I,2022-05-08,41,35,4,2,True,1
+Kane Williamson,England,Old Trafford,Test,2023-01-10,61,226,4,1,True,2
+Virat Kohli,New Zealand,Old Trafford,ODI,2018-06-16,13,24,1,0,True,1
+Babar Azam,New Zealand,Lords,ODI,2016-04-12,52,126,4,1,True,2
+Kane Williamson,Pakistan,Eden Gardens,ODI,2017-03-27,68,46,5,2,True,1
+Steve Smith,New Zealand,MCG,ODI,2021-12-28,33,34,2,1,True,2
+Babar Azam,Australia,Eden Gardens,ODI,2017-08-08,66,140,5,2,True,2
+Steve Smith,New Zealand,Eden Gardens,T20I,2023-03-09,61,36,6,3,True,1
+Joe Root,New Zealand,MCG,T20I,2021-12-17,56,45,5,2,False,1
+Steve Smith,England,Dubai International Stadium,Test,2016-12-01,124,258,8,2,False,1
+Steve Smith,Australia,Eden Gardens,Test,2022-09-17,81,172,5,1,False,2
+Joe Root,Australia,Eden Gardens,ODI,2015-12-21,20,40,1,0,True,2
+David Warner,Pakistan,Old Trafford,Test,2017-01-06,59,276,3,1,True,1
+Jos Buttler,New Zealand,Lords,Test,2015-07-12,44,94,2,0,True,1
+Babar Azam,England,MCG,ODI,2021-06-06,25,24,2,0,False,2
+Steve Smith,Pakistan,Old Trafford,T20I,2021-11-28,78,32,7,3,True,1
+Steve Smith,England,Lords,T20I,2017-10-13,40,18,4,2,False,2
+Jos Buttler,Australia,Dubai International Stadium,Test,2017-03-01,33,49,2,0,True,1
+Jos Buttler,Australia,Lords,Test,2015-12-04,42,144,2,0,False,1
+Babar Azam,Australia,Lords,Test,2020-05-23,64,199,4,1,True,2
+Babar Azam,New Zealand,Dubai International Stadium,Test,2019-03-17,20,65,1,0,True,2
+David Warner,Australia,Eden Gardens,Test,2019-12-01,7,24,0,0,True,1
+Joe Root,England,Eden Gardens,T20I,2017-07-21,4,2,0,0,True,2
+Steve Smith,Australia,Eden Gardens,ODI,2015-09-24,77,128,6,2,False,1
+Rohit Sharma,New Zealand,Lords,T20I,2019-02-18,37,16,3,1,True,1
+Kane Williamson,Pakistan,MCG,T20I,2018-12-17,2,2,0,0,True,2
+David Warner,New Zealand,Lords,ODI,2019-12-15,53,41,4,1,False,2
+Steve Smith,Pakistan,Lords,T20I,2021-04-05,18,9,1,0,True,2
+Virat Kohli,Pakistan,Lords,T20I,2017-12-04,3,3,0,0,True,1
+Virat Kohli,New Zealand,Eden Gardens,T20I,2016-12-08,14,6,1,0,False,1
+Joe Root,Pakistan,MCG,ODI,2019-05-04,19,19,1,0,True,2
+Joe Root,Australia,Lords,T20I,2022-11-04,35,23,3,1,False,2
+Kane Williamson,England,Eden Gardens,ODI,2017-07-06,11,11,0,0,True,2
+Babar Azam,England,MCG,T20I,2015-11-20,55,30,5,2,True,1
+Babar Azam,Pakistan,Old Trafford,Test,2017-08-06,106,173,7,2,True,2
+Steve Smith,England,Eden Gardens,T20I,2020-08-04,9,18,0,0,True,2
+Virat Kohli,Pakistan,Old Trafford,Test,2016-10-20,116,219,7,2,True,1
+Rohit Sharma,England,Dubai International Stadium,Test,2018-01-05,38,58,2,0,True,1
+Steve Smith,New Zealand,Eden Gardens,ODI,2015-08-11,115,123,9,3,True,2
+Steve Smith,Australia,Eden Gardens,Test,2018-07-10,10,48,0,0,True,2
+Virat Kohli,England,Old Trafford,ODI,2019-06-11,25,59,2,0,False,1
+Joe Root,New Zealand,Dubai International Stadium,T20I,2020-01-27,17,12,1,0,True,1
+Kane Williamson,Pakistan,Lords,ODI,2015-05-27,15,32,1,0,False,2
+Babar Azam,England,MCG,ODI,2021-02-18,0,0,0,0,True,1
+Virat Kohli,Australia,Old Trafford,Test,2015-06-11,153,199,10,3,True,2
+Kane Williamson,New Zealand,MCG,ODI,2017-04-26,104,134,8,3,True,1
+David Warner,Pakistan,Dubai International Stadium,Test,2021-02-16,145,276,9,2,True,2
+Joe Root,Pakistan,Eden Gardens,Test,2017-05-22,21,76,1,0,True,1
+Rohit Sharma,Pakistan,Dubai International Stadium,ODI,2021-07-11,143,130,11,4,True,1
+Babar Azam,England,MCG,T20I,2021-12-23,10,8,1,0,True,2
+Joe Root,New Zealand,Lords,ODI,2015-05-30,50,52,4,1,True,1
+Virat Kohli,New Zealand,Dubai International Stadium,Test,2017-11-08,108,252,7,2,True,1
+David Warner,New Zealand,MCG,ODI,2019-01-05,26,20,2,0,False,1
+Rohit Sharma,Australia,MCG,ODI,2021-04-30,85,68,7,2,True,2
+Jos Buttler,Australia,MCG,Test,2019-01-22,6,11,0,0,False,2
+Steve Smith,Pakistan,Old Trafford,T20I,2017-11-12,57,26,5,2,False,1
+David Warner,Australia,Old Trafford,T20I,2020-08-01,27,50,2,1,True,2
+Kane Williamson,England,Dubai International Stadium,T20I,2016-08-19,64,51,6,3,False,2
+Rohit Sharma,New Zealand,Dubai International Stadium,ODI,2021-10-19,110,95,9,3,True,1
+Joe Root,New Zealand,Eden Gardens,Test,2016-11-23,74,126,4,1,True,1
+Virat Kohli,England,MCG,T20I,2021-10-19,32,55,3,1,False,2
+Steve Smith,Pakistan,Dubai International Stadium,ODI,2016-04-20,99,67,8,3,False,2
+Babar Azam,New Zealand,Dubai International Stadium,Test,2015-08-03,31,90,2,0,True,2
+Jos Buttler,England,Eden Gardens,ODI,2016-11-09,70,65,5,2,True,2
+Babar Azam,New Zealand,Dubai International Stadium,ODI,2022-08-27,10,26,0,0,False,2
+Jos Buttler,Pakistan,Lords,T20I,2016-04-12,76,54,7,3,True,1
+Kane Williamson,Pakistan,Old Trafford,T20I,2016-12-13,26,14,2,1,True,2
+Rohit Sharma,Australia,Old Trafford,T20I,2020-05-20,12,10,1,0,True,1
+Babar Azam,Australia,Dubai International Stadium,ODI,2017-11-19,101,74,8,3,True,1
+Steve Smith,Australia,MCG,Test,2016-04-22,77,255,5,1,True,2
+Kane Williamson,England,Dubai International Stadium,ODI,2019-06-12,60,99,5,2,True,2
+Babar Azam,Pakistan,Old Trafford,ODI,2016-08-04,28,67,2,0,True,1
+Jos Buttler,Pakistan,Eden Gardens,Test,2022-03-20,100,127,6,2,False,2
+Steve Smith,England,Lords,T20I,2015-12-27,28,14,2,1,True,1
+Kane Williamson,Australia,Eden Gardens,ODI,2021-08-14,74,67,6,2,True,1
+Babar Azam,New Zealand,Eden Gardens,ODI,2019-06-08,160,113,13,5,False,2
+Virat Kohli,New Zealand,Old Trafford,ODI,2021-06-12,54,69,4,1,True,1
+Steve Smith,New Zealand,Dubai International Stadium,Test,2019-09-20,15,71,1,0,False,2
+Joe Root,New Zealand,Old Trafford,Test,2021-09-06,40,80,2,0,True,2
+Rohit Sharma,Pakistan,MCG,ODI,2022-07-08,108,86,9,3,False,2
+Kane Williamson,Australia,Old Trafford,ODI,2015-07-31,24,19,2,0,True,1
+Joe Root,Pakistan,Old Trafford,ODI,2019-05-09,22,37,1,0,True,1
+Rohit Sharma,New Zealand,Dubai International Stadium,T20I,2016-01-02,22,15,2,1,False,1
+Babar Azam,Pakistan,Old Trafford,ODI,2016-05-21,17,12,1,0,False,2
+Kane Williamson,Australia,Old Trafford,T20I,2019-04-02,102,56,10,5,True,2
+Virat Kohli,New Zealand,Eden Gardens,ODI,2021-09-07,51,67,4,1,True,2
+Joe Root,Pakistan,Dubai International Stadium,ODI,2021-12-22,94,70,7,3,True,2
+Babar Azam,Pakistan,Dubai International Stadium,Test,2016-07-29,9,15,0,0,True,1
+Joe Root,Pakistan,Old Trafford,Test,2018-04-13,119,159,7,2,True,1
+David Warner,Australia,Dubai International Stadium,Test,2021-07-01,74,115,4,1,True,2
+Steve Smith,New Zealand,MCG,Test,2017-01-13,47,106,3,0,False,2
+Rohit Sharma,England,Dubai International Stadium,T20I,2020-10-17,24,10,2,1,True,1
+David Warner,Pakistan,Dubai International Stadium,T20I,2022-05-28,22,40,2,1,True,2
+Jos Buttler,Australia,MCG,Test,2019-08-07,4,21,0,0,True,1
+Rohit Sharma,Pakistan,Eden Gardens,Test,2018-01-14,58,253,3,1,True,2
+Jos Buttler,New Zealand,Old Trafford,Test,2023-01-24,7,25,0,0,True,1
+Kane Williamson,New Zealand,MCG,ODI,2018-08-29,78,145,6,2,True,2
+Jos Buttler,England,Lords,T20I,2017-02-18,31,55,3,1,True,1
+Steve Smith,Pakistan,MCG,Test,2018-03-01,54,152,3,1,True,2
+Steve Smith,New Zealand,MCG,ODI,2023-02-23,49,57,4,1,True,1
+Rohit Sharma,Australia,Eden Gardens,T20I,2022-03-13,63,35,6,3,False,1
+Virat Kohli,England,Dubai International Stadium,Test,2020-08-16,22,90,1,0,True,1
+Rohit Sharma,England,Dubai International Stadium,Test,2021-03-06,36,97,2,0,True,2
+Joe Root,New Zealand,Lords,T20I,2018-10-04,61,37,6,3,True,1
+Virat Kohli,New Zealand,MCG,Test,2017-08-13,25,92,1,0,False,1
+David Warner,New Zealand,Lords,Test,2020-02-22,13,64,0,0,False,1
+Steve Smith,Pakistan,Eden Gardens,Test,2015-12-26,70,300,4,1,True,2
+Joe Root,Australia,Lords,T20I,2018-07-08,114,46,11,5,True,1
+Rohit Sharma,New Zealand,Eden Gardens,ODI,2018-09-23,36,58,3,1,True,2
+Virat Kohli,Pakistan,Dubai International Stadium,Test,2017-08-20,101,255,6,2,True,1
+Joe Root,Pakistan,Dubai International Stadium,ODI,2020-02-28,21,34,1,0,False,2
+David Warner,Pakistan,Dubai International Stadium,Test,2023-02-16,0,0,0,0,True,1
+Jos Buttler,New Zealand,Lords,T20I,2020-12-07,74,32,7,3,False,2
+Joe Root,Pakistan,Old Trafford,ODI,2021-07-26,46,40,3,1,True,2
+Kane Williamson,England,Old Trafford,ODI,2021-06-29,114,87,9,3,False,2
+Joe Root,Australia,Dubai International Stadium,ODI,2020-06-28,51,43,4,1,False,1
+Jos Buttler,Pakistan,Eden Gardens,T20I,2019-01-01,28,17,2,1,True,2
+David Warner,England,Eden Gardens,T20I,2017-09-26,19,8,1,0,True,1
+Jos Buttler,New Zealand,Old Trafford,Test,2015-05-13,171,253,11,3,False,1
+Joe Root,Pakistan,Old Trafford,T20I,2019-12-05,79,37,7,3,False,2
+Joe Root,Pakistan,MCG,ODI,2021-12-02,61,66,5,2,True,1
+Babar Azam,New Zealand,Eden Gardens,T20I,2020-07-26,51,43,5,2,True,1
+Joe Root,England,Old Trafford,T20I,2018-09-30,53,23,5,2,True,1
+Kane Williamson,Pakistan,Old Trafford,Test,2019-07-19,15,59,1,0,False,2
+David Warner,New Zealand,Old Trafford,ODI,2022-01-01,11,8,0,0,True,1
+Jos Buttler,Australia,MCG,T20I,2022-01-14,37,53,3,1,False,1
+Steve Smith,Pakistan,Lords,T20I,2016-03-19,56,33,5,2,True,1
+David Warner,Australia,Lords,Test,2017-12-06,160,203,10,3,True,2
+Jos Buttler,England,MCG,ODI,2020-02-02,83,86,6,2,True,1
+Steve Smith,Pakistan,Dubai International Stadium,T20I,2019-10-14,0,0,0,0,True,2
+Babar Azam,England,Old Trafford,ODI,2021-05-31,40,45,3,1,True,1
+Jos Buttler,New Zealand,MCG,Test,2021-02-24,9,23,0,0,False,1
+Babar Azam,Pakistan,Old Trafford,ODI,2018-12-05,67,149,5,2,False,2
+Kane Williamson,New Zealand,Lords,T20I,2019-08-06,49,23,4,2,True,1
+Rohit Sharma,England,Dubai International Stadium,Test,2021-07-18,48,144,3,0,False,1
+Jos Buttler,Australia,Dubai International Stadium,Test,2022-06-21,82,216,5,1,True,2
