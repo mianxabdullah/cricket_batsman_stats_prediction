@@ -49,7 +49,7 @@ def generate_mock_data(num_rows=500):
             'Innings': random.choice([1, 2])
         })        
     df = pd.DataFrame(data)
-    df.to_csv('data/mock_cricket_data.csv', index=False)
+    df.to_csv('./data/mock_cricket_data.csv', index=False)
     print("Mock data generated at data/mock_cricket_data.csv")
 if __name__ == "__main__":
     generate_mock_data()
