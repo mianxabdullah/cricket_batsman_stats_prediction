@@ -36,3 +36,9 @@ elif data_source == "Kaggle Dataset":
         st.sidebar.info(f"📊 Players: {df['Player'].nunique()}")
     else:
         st.sidebar.error("Kaggle dataset files not found. Please ensure bat.csv and match.csv are in the data folder.")
+else:
+    uploaded_file = st.sidebar.file_uploader("Upload Cricket Data CSV", type=['csv'])
+    if uploaded_file is not None:
+        df = pd.read_csv(uploaded_file)
+        if 'Date' in df.columns:
+            df['Date'] = pd.to_datetime(df['Date'])
