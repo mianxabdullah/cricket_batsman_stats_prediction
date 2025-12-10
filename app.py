@@ -3,6 +3,7 @@ import pandas as pd
 import os
 from src.data_loader import load_data,load_kaggle_dataset,preprocess_data
 from src.eda import get_player_stats, get_format_stats
+from src.model import ScorePredictor
 
 st.set_page_config(
     page_title="Cricket Performance Analytics",
@@ -72,3 +73,39 @@ if df is not None:
             st.subheader("Recent Form (Last 10 Innings)")
             player_matches = df[df['Player'] == selected_player].sort_values('Date').tail(10)
             st.line_chart(player_matches.set_index('Date')['Runs'])
+
+    elif page == "Performance Prediction (ML)":
+        st.header("Match Score Prediction")
+        st.markdown("Predict a player's score in the next match using Regression Analysis.")
+        
+        selected_player_ml = st.selectbox("Select Player for Prediction", players)
+        predictor = ScorePredictor()
+        
+        with st.spinner("Training model on player data..."):
+            mae = predictor.train(df)
+        
+        st.success(f"Model Trained! Mean Absolute Error on Test Set: {mae:.2f} runs")  
+        st.subheader("Predict Next Match Score")
+        
+        col1, col2 = st.columns(2)
+        
+        player_df = df[df['Player'] == selected_player_ml].sort_values('Date')
+        recent_avg_default = player_df['Runs'].tail(5).mean() if len(player_df) >= 5 else 30.0
+        
+        with col1:
+            recent_form = st.number_input("Recent Batting Average (Last 5 Matches)", value=float(recent_avg_default))
+        
+        with col2:
+            venue_avg = st.number_input("Historical Average at Venue", value=35.0)
+            
+        if st.button("Predict Score"):
+            prediction = predictor.predict(recent_form, venue_avg)
+            st.balloons()
+            st.metric(label="Predicted Runs", value=f"{int(prediction)}")
+            
+            if prediction > 50:
+                st.info("The model predicts a strong performance! Likely a 50+ score.")
+            elif prediction < 20:
+                st.warning("The model predicts a tough inning. Early wicket risk.")
+else:
+    st.info("Please load data to proceed.")
