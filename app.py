@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-from src.data_loader import load_data
+from src.data_loader import load_data,load_kaggle_dataset
 
 st.set_page_config(
     page_title="Cricket Performance Analytics",
@@ -28,3 +28,11 @@ if data_source == "Mock Data":
         st.sidebar.success("Mock Data Loaded Successfully")
     else:
         st.sidebar.error("Mock data not found. Please run generation script.")
+
+elif data_source == "Kaggle Dataset":
+    df = load_kaggle_dataset("data")
+    if df is not None:
+        st.sidebar.success(f"✅ Kaggle Dataset Loaded: {len(df)} records")
+        st.sidebar.info(f"📊 Players: {df['Player'].nunique()}")
+    else:
+        st.sidebar.error("Kaggle dataset files not found. Please ensure bat.csv and match.csv are in the data folder.")
