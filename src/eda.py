@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 def get_player_stats(df, player_name):
     player_df = df[df['Player'] == player_name]
     if player_df.empty:
@@ -15,11 +16,24 @@ def get_player_stats(df, player_name):
         'Highest Score': player_df['Runs'].max()
     }
     return stats
+
 def get_format_stats(df, player_name):
     player_df = df[df['Player'] == player_name]
-    return player_df.groupby('Format').agg({
-        'Runs': 'sum',
-        'Balls': 'sum',
-        '4s': 'sum',
-        '6s': 'sum'
-    }).reset_index()
+
+    stats = player_df.groupby('Format').agg(
+        Runs=('Runs', 'sum'),
+        Balls=('Balls', 'sum'),
+        Fours=('4s', 'sum'),
+        Sixes=('6s', 'sum'),
+        Highest_Score=('Runs', 'max'),
+        Hundreds=('Runs', lambda x: (x >= 100).sum()),
+        Fifties=('Runs', lambda x: ((x >= 50) & (x < 100)).sum())
+    ).reset_index()
+
+    stats['Strike_Rate'] = np.where(
+        stats['Balls'] > 0,
+        (stats['Runs'] / stats['Balls']) * 100,
+        0
+    )
+    return stats
+
